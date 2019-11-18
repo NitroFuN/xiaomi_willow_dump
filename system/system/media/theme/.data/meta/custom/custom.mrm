@@ -1,0 +1,13 @@
+[
+    {
+        "subject": "willowdefault",
+        "international": true,
+        "hwversion": [
+            "*"
+        ],
+        "guide_sort": "0,ebfce684-1d1e-4a70-ae14-f7ca038f4d34,f2ba0de9-d970-4e1a-945d-227381adee83,247f8f41-4da9-4749-bb84-56ee1f2d6da5",
+        "local": {
+            "id": "0"
+        }
+    }
+]
